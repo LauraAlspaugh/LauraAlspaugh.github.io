@@ -638,6 +638,7 @@
 }
 
 .prt-item a img {
+    /* width: 400px; */
     max-width: 100%;
     display: inline-block;
 }
