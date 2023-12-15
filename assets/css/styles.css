@@ -410,7 +410,7 @@
 
 .abt-content p {
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 600;
     color: #333;
     letter-spacing: 0;
     margin-bottom: 19px;
@@ -424,7 +424,7 @@
 .social-link h5 {
     font-family: 'Montserrat', sans-serif;
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 0;
     font-weight: 600;
     color: #222222;
@@ -433,7 +433,7 @@
 
 .social-link a {
     display: inline-block;
-    font-size: 15px;
+    font-size: 20px;
     color: #333333;
     margin-right: 11px;
 }
@@ -455,6 +455,10 @@
 *=============================================*/
 .service-area {
     position: relative;
+}
+
+.email-title {
+    font-size: 20px;
 }
 
 .single-service {
@@ -530,15 +534,16 @@
 .srvc-content h4 {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 800;
     letter-spacing: 0;
     color: #222222;
     margin-bottom: 15px;
 }
 
 .srvc-content p {
-    color: #444;
-    line-height: 26px;
+    color: black;
+    line-height: 30px;
+    font-weight: 600;
 }
 
 
@@ -605,6 +610,7 @@
 
 .prt-item p {
     font-size: 18px;
+    color: black;
 }
 
 .prt-item a.expand-video span {
@@ -663,7 +669,7 @@
 }
 
 .cnt-left ul li {
-    font-size: 14px;
+    font-size: 17px;
     color: #333;
     letter-spacing: 0;
     line-height: 23px;
