@@ -219,7 +219,7 @@
 
 .slider-content h4 {
     font-size: 19px;
-    font-weight: 300;
+    font-weight: 500;
     color: black;
     letter-spacing: 0em;
     line-height: 41px;
@@ -601,6 +601,10 @@
 .prt-item a.expand-video {
     position: relative;
     z-index: 1;
+}
+
+.prt-item p {
+    font-size: 18px;
 }
 
 .prt-item a.expand-video span {
