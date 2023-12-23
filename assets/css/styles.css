@@ -601,6 +601,7 @@
 
 .prt-item a {
     display: block;
+    font: black;
 }
 
 .prt-item a.expand-video {
@@ -640,7 +641,7 @@
 
 .prt-item a.expand-video span:before {
     font-size: 50px;
-    color: #fff;
+    color: white;
 }
 
 .prt-item a:hover {
@@ -649,8 +650,12 @@
 
 .prt-item a img {
     /* width: 400px; */
-    max-width: 100%;
+    /* max-width: 100%; */
+    height: 250px;
+    width: 400px;
     display: inline-block;
+    object-fit: cover;
+    position: center;
 }
 
 /*============================================
